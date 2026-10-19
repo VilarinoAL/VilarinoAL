@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 240" role="img" aria-labelledby="t d">
-<title id="t">Áreas de atuação de Alessandro Vilarino</title><desc id="d">Design gráfico, desenvolvimento web e experiência digital conectados.</desc>
-<rect width="920" height="240" rx="20" fill="#f7f7f8"/>
-<path d="M278 120H326 M594 120H642" stroke="#a1a1aa" stroke-width="2" stroke-dasharray="5 7"/>
-<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
-<rect x="28" y="55" width="250" height="130" rx="16" fill="#fff" stroke="#dedee2"/>
-<text x="153" y="108" font-size="21" font-weight="700" fill="#25252a">Design gráfico</text>
-<text x="153" y="139" font-size="14" fill="#71717a">Identidade &amp; comunicação</text>
-<rect x="326" y="55" width="268" height="130" rx="16" fill="#25252a"/>
-<text x="460" y="108" font-size="21" font-weight="700" fill="#fff">Desenvolvimento</text>
-<text x="460" y="139" font-size="14" fill="#d4d4d8">Web &amp; soluções digitais</text>
-<rect x="642" y="55" width="250" height="130" rx="16" fill="#fff" stroke="#dedee2"/>
-<text x="767" y="108" font-size="20" font-weight="700" fill="#25252a">Experiência</text>
-<text x="767" y="139" font-size="14" fill="#71717a">Clareza &amp; usabilidade</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 210" role="img" aria-labelledby="title desc"><title id="title">Áreas de atuação e estudo</title><desc id="desc">Design gráfico, desenvolvimento web e cibersegurança</desc><rect width="920" height="210" rx="18" fill="#f7f7f8"/><g font-family="Arial,Helvetica,sans-serif" text-anchor="middle"><rect x="22" y="43" width="270" height="124" rx="14" fill="#fff" stroke="#dedee2"/><text x="157" y="94" font-size="21" font-weight="bold" fill="#25252a">Design gráfico</text><text x="157" y="123" font-size="14" fill="#71717a">Identidade visual</text><rect x="325" y="43" width="270" height="124" rx="14" fill="#25252a"/><text x="460" y="94" font-size="21" font-weight="bold" fill="#fff">Desenvolvimento</text><text x="460" y="123" font-size="14" fill="#d4d4d8">Web e interfaces</text><rect x="628" y="43" width="270" height="124" rx="14" fill="#fff" stroke="#dedee2"/><text x="763" y="94" font-size="21" font-weight="bold" fill="#25252a">Cibersegurança</text><text x="763" y="123" font-size="14" fill="#71717a">Sistemas e proteção digital</text></g></svg>
