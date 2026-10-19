@@ -33,22 +33,20 @@ Meu interesse é conectar **design, tecnologia e segurança digital** em projeto
 - **Desenvolvimento web:** ambientes de desenvolvimento, interfaces e soluções digitais.
 - **Cibersegurança:** fundamentos de segurança, sistemas e gestão de vulnerabilidades.
 
-### Formação complementar · Cursos concluídos
+### Conhecimentos técnicos · Formação concluída
 
-| Área | Curso |
+| Especialidade | Conteúdo estudado |
 | :-- | :-- |
-| Desenvolvimento web | Construindo um Ambiente para Desenvolvimento Web |
-| Sistemas | Sistemas Operacionais |
-| Segurança digital | Deep Web e Dark Net |
-| Tecnologia | Mentalidade de Máquina |
-| Segurança digital | Cibersegurança |
-| Segurança ofensiva | Pentest — Testes de Intrusão e Gestão de Vulnerabilidades |
-| Desenvolvimento web | Linguagem de Programação para Web — Prática |
-| Inteligência artificial | Utilizando a IA Gemini para Desenvolver |
-| Mercado criativo | Como Encontrar Clientes e Trabalhar Como Freelancer |
-| Ferramentas digitais | Ferramentas que Todo Mundo Procura |
+| **Web Development** | Configuração de ambientes e fundamentos de desenvolvimento web |
+| **Operating Systems** | Fundamentos de sistemas operacionais |
+| **Web Security** | Arquitetura e conceitos de Surface Web, Deep Web e Dark Web |
+| **Computational Thinking** | Lógica e raciocínio computacional |
+| **Cybersecurity Fundamentals** | Fundamentos de segurança da informação |
+| **Penetration Testing** | Testes de intrusão e gestão de vulnerabilidades |
+| **Front-end Development** | Programação prática para web |
+| **AI-assisted Development** | Uso de inteligência artificial como apoio ao desenvolvimento |
 
-<sub>Os cursos acima foram informados como concluídos. Cursos e estudos não equivalem, por si só, a experiência profissional ou certificações técnicas oficiais.</sub>
+<sub>Áreas estudadas em cursos concluídos; não representam certificação profissional ou especialização avançada.</sub>
 
 ### Temas que exploro
 
