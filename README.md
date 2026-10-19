@@ -27,26 +27,19 @@ Sou **Alessandro Vilarino**, designer gráfico e desenvolvedor. Uno criatividade
 
 ---
 
-### GitHub em números
+### Design + desenvolvimento
 
 <div align="center">
 
-<img alt="Estatísticas públicas do GitHub de Alessandro Vilarino" height="165" src="https://github-readme-stats.vercel.app/api?username=VilarinoAL&show_icons=true&hide_border=true&theme=transparent&title_color=71717a&text_color=8b949e&icon_color=71717a&include_all_commits=true" />
-<img alt="Linguagens nos repositórios públicos de Alessandro Vilarino" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilarinoAL&layout=compact&hide_border=true&theme=transparent&title_color=71717a&text_color=8b949e" />
+![Áreas de atuação: design gráfico, desenvolvimento e experiência digital](./assets/areas-de-atuacao.svg)
 
 </div>
 
-<sub>Os cartões são gerados por serviços externos a partir dos dados disponíveis do GitHub. Podem levar um tempo para atualizar e não representam todas as minhas habilidades.</sub>
+### Contribuições no GitHub
 
-### Atividade e contribuições
+Meu histórico real de contribuições fica disponível no **[calendário de atividades do GitHub](https://github.com/VilarinoAL?tab=overview)**, logo abaixo da apresentação do perfil.
 
-<div align="center">
-
-[![Gráfico de atividade de Alessandro Vilarino](https://github-readme-activity-graph.vercel.app/graph?username=VilarinoAL&bg_color=00000000&color=71717a&line=8b949e&point=71717a&area=true&area_color=71717a&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub)](https://github.com/VilarinoAL)
-
-</div>
-
-<sub>O gráfico considera as contribuições que o GitHub disponibiliza publicamente. A exibição depende da disponibilidade do serviço externo.</sub>
+> Como os repositórios de projetos estão privados, alguns serviços externos de estatísticas não conseguem exibir dados completos. Prefiro apresentar informações verificáveis a mostrar cartões vazios ou números enganosos.
 
 ---
 
