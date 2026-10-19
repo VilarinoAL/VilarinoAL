@@ -2,12 +2,12 @@
 
 # Alessandro Vilarino
 
-**Designer Gráfico & Desenvolvedor**
+**Designer Gráfico · Desenvolvimento Web · Cibersegurança**
 
-*Design, tecnologia e criatividade para construir experiências digitais.*
+*Criatividade, código e segurança na construção de experiências digitais.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-VilarinoAL-18181b?style=flat-square&logo=github&logoColor=white)](https://github.com/VilarinoAL)
-![Perfil](https://komarev.com/ghpvc/?username=VilarinoAL&style=flat-square&color=71717a&label=Visualiza%C3%A7%C3%B5es+do+perfil)
+![Visitas](https://komarev.com/ghpvc/?username=VilarinoAL&style=flat-square&color=71717a&label=Visitas)
 
 </div>
 
@@ -15,52 +15,70 @@
 
 ### Sobre mim
 
-Sou **Alessandro Vilarino**, designer gráfico e desenvolvedor. Uno criatividade, identidade visual e tecnologia para transformar ideias em experiências digitais intuitivas e bem construídas.
+Sou **Alessandro Vilarino**, designer gráfico e desenvolvedor com formação complementar em desenvolvimento web, sistemas operacionais e fundamentos de cibersegurança.
 
-> **Design com propósito. Tecnologia com atenção aos detalhes.**
+Meu interesse é conectar **design, tecnologia e segurança digital** em projetos organizados, funcionais e visualmente consistentes.
 
-### O que me interessa
+> Design com propósito. Tecnologia com atenção aos detalhes.
 
-- **Design gráfico** — identidade visual, composição e comunicação.
-- **Desenvolvimento web** — interfaces e soluções digitais.
-- **Experiência do usuário** — clareza, funcionalidade e consistência.
-
----
-
-### Design + desenvolvimento
+### Áreas de interesse e atuação
 
 <div align="center">
 
-![Áreas de atuação: design gráfico, desenvolvimento e experiência digital](./assets/areas-de-atuacao.svg)
+![Design gráfico, desenvolvimento web e cibersegurança](./assets/areas-de-atuacao.svg)
 
 </div>
 
-### Contribuições no GitHub
+- **Design gráfico:** identidade visual, composição e comunicação.
+- **Desenvolvimento web:** ambientes de desenvolvimento, interfaces e soluções digitais.
+- **Cibersegurança:** fundamentos de segurança, sistemas e gestão de vulnerabilidades.
 
-Meu histórico real de contribuições fica disponível no **[calendário de atividades do GitHub](https://github.com/VilarinoAL?tab=overview)**, logo abaixo da apresentação do perfil.
+### Formação complementar · Cursos concluídos
 
-> Como os repositórios de projetos estão privados, alguns serviços externos de estatísticas não conseguem exibir dados completos. Prefiro apresentar informações verificáveis a mostrar cartões vazios ou números enganosos.
+| Área | Curso |
+| :-- | :-- |
+| Desenvolvimento web | Construindo um Ambiente para Desenvolvimento Web |
+| Sistemas | Sistemas Operacionais |
+| Segurança digital | Deep Web e Dark Net |
+| Tecnologia | Mentalidade de Máquina |
+| Segurança digital | Cibersegurança |
+| Segurança ofensiva | Pentest — Testes de Intrusão e Gestão de Vulnerabilidades |
+| Desenvolvimento web | Linguagem de Programação para Web — Prática |
+| Inteligência artificial | Utilizando a IA Gemini para Desenvolver |
+| Mercado criativo | Como Encontrar Clientes e Trabalhar Como Freelancer |
+| Ferramentas digitais | Ferramentas que Todo Mundo Procura |
+
+<sub>Os cursos acima foram informados como concluídos. Cursos e estudos não equivalem, por si só, a experiência profissional ou certificações técnicas oficiais.</sub>
+
+### Temas que exploro
+
+![Web](https://img.shields.io/badge/Desenvolvimento_Web-27272a?style=flat-square)
+![Sistemas](https://img.shields.io/badge/Sistemas_Operacionais-52525b?style=flat-square)
+![Segurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-27272a?style=flat-square)
+![Pentest](https://img.shields.io/badge/Pentest-52525b?style=flat-square)
+![IA](https://img.shields.io/badge/IA_aplicada-27272a?style=flat-square)
+![Design](https://img.shields.io/badge/Design_Gr%C3%A1fico-52525b?style=flat-square)
 
 ---
 
-### Processo criativo
+### Meu processo
 
 ```text
-Descoberta  →  Estratégia  →  Design  →  Código  →  Evolução
+Pesquisa → Planejamento → Design → Desenvolvimento → Revisão
 ```
 
 ### Projetos
 
-Aqui compartilho estudos, experiências e projetos de design e desenvolvimento. À medida que novos trabalhos forem publicados, os destaques aparecerão nesta seção.
+Este espaço reúne meus estudos, experimentos e projetos. Vou destacar aqui os trabalhos à medida que estiverem disponíveis publicamente.
+
+### Atividade
+
+Veja meu [histórico de contribuições diretamente no GitHub](https://github.com/VilarinoAL?tab=overview).
 
 ### Contato
 
-Acompanhe meus projetos ou entre em contato pelo [GitHub](https://github.com/VilarinoAL).
+Conecte-se comigo pelo [GitHub](https://github.com/VilarinoAL).
 
 ---
 
-<div align="center">
-
-<sub>Alessandro Vilarino · Design & Desenvolvimento</sub>
-
-</div>
+<div align="center"><sub>Alessandro Vilarino · Design, Web & Segurança Digital</sub></div>
